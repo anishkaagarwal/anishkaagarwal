@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png" alt="Waving Hand" width="40"/>
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="Coding Girl" width="60"/>
+</p>
 <h1 align="center" style="color:hotpink; font-size:32px;">
-  👋 Hi, I’m @anishkaagarwal
+  👋 Hi, I’m Anishka Agarwal 
 </h1>
 
 <p align="center">
