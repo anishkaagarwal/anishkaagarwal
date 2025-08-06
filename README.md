@@ -1,4 +1,4 @@
-- #👋 Hi, I’m @anishkaagarwal
+- <h1 style="color:hotpink; font-size:32px;">👋 Hi, I’m @anishkaagarwal</h1>
 - 👀 I’m an engineering pre final year student in cse
 - 🌱 I’m interested in the Data Analysis and AI, ML fields
 - 💞️ I’m looking to work for the women of our country
