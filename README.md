@@ -1,6 +1,8 @@
+<div style="background-color:#e30b5d; padding: 30px; border-radius: 12px; color: white; text-align: center;">
+
 <p align="center">
-  <img src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png" alt="Waving Hand" width="40"/>
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="Coding Girl" width="60"/>
+  <img src="https://tenor.com/view/hand-waving-hand-emoji-gif-14999877618442267107" alt="Waving Hand" width="60"/>
+  <img src="https://tenor.com/view/india-ind-indian-new-delhi-mumbai-gif-11199659753317084508" alt="Indian Theme" width="60"/>
 </p>
 <h1 align="center" style="color:hotpink; font-size:32px;">
   👋 Hi, I’m Anishka Agarwal 
@@ -19,7 +21,7 @@
 🌐 PORTFOLIO: <a href="https://anishkaagarwal.vercel.app/" style="color:#e30b5d;">https://anishkaagarwal.vercel.app/</a><br>
 🦀 rust pp: <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=47c61fc...2d5b" style="color:#e30b5d;">Rust Playground Link</a>
 </p>
-
+</div>
 
 <!---
 anishkaagarwal/anishkaagarwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
