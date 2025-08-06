@@ -1,9 +1,4 @@
 <div style="background-color:#e30b5d; padding: 30px; border-radius: 12px; color: white; text-align: center;">
-
-<p align="center">
-  <img src="https://tenor.com/view/hand-waving-hand-emoji-gif-14999877618442267107" alt="Waving Hand" width="60"/>
-  <img src="https://tenor.com/view/india-ind-indian-new-delhi-mumbai-gif-11199659753317084508" alt="Indian Theme" width="60"/>
-</p>
 <h1 align="center" style="color:hotpink; font-size:32px;">
   👋 Hi, I’m Anishka Agarwal 
 </h1>
