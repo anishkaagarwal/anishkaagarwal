@@ -11,8 +11,9 @@
 
   **Currently:**
 - Forward Deployed Engineer at CallKaro AI
-- 🏢 Software Developer Intern at [@multyfi](https://github.com/multyfi)
+- 🏢 Software Developer Intern at [@multyfi](https://github.com/multyfi) [2026]
 - 🎓 B.Tech in Computer Science Engineering from Maharishi Dayanand Uni, graduating 2027
+- 🎓 BSc in AI & DS from Indian Institute of Technology, graduating 2027 - executive degree 
   
 🌈 I’m an engineering final year student in CSE<br>
 🌿 I’m interested in the Data Analysis and AI, ML fields<br>
