@@ -8,6 +8,12 @@
 </p>
 
 <p style="color:#e30b5d; font-size:16px;">
+
+  **Currently:**
+- Forward Deployed Engineer at CallKaro AI
+- 🏢 Software Developer Intern at [@multyfi](https://github.com/multyfi)
+- 🎓 B.Tech in Computer Science Engineering from Maharishi Dayanand Uni, graduating 2027
+  
 🌈 I’m an engineering final year student in CSE<br>
 🌿 I’m interested in the Data Analysis and AI, ML fields<br>
 🌸 I’m looking to work for the women of our country<br>
