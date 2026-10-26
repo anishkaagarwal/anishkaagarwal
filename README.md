@@ -12,13 +12,11 @@
   **Currently:**
 - Forward Deployed Engineer at CallKaro AI
 - 🏢 Software Developer Intern at [@multyfi](https://github.com/multyfi) [2026
-- 🎓 BSc in AI & DS from Indian Institute of Technology, graduating 2027 - executive degree 
   
 🌈 I’m an engineering final year student in CSE<br>
 🌿 I’m interested in the Data Analysis and AI, ML fields<br>
 🌸 I’m looking to work for the women of our country<br>
 😄 Pronouns: she/her<br>
-🦀 rust pp: <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=47c61fc...2d5b" style="color:#e30b5d;">Rust Playground Link</a>
 </p>
 </div>
 
