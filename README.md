@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm Anishka Agarwal 👋</h1>
 
 <p align="center">
-  <b>Agentic AI Systems · RAG · Forward Deployed Engineering</b><br/>
-  Forward deployed engineer shipping multi-agent, RAG and voice AI systems to production for enterprise clients.
+  <b>Agentic AI Sys · Prompt Engg · Forward Deployed Engg</b><br/>
 </p>
 
 <p align="center">
-  <a href="https://anishkaagarwal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-anishkaagarwal.vercel.app-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/anishka-agarwal-8a11b9279"><img src="https://img.shields.io/badge/LinkedIn-Anishka_Agarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://anishkaagarwal.vercel.app">
+  <img src="https://img.shields.io/badge/LinkedIn-Anishka_Agarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:anishkaagarwal998@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://leetcode.com/u/anishka_agarwalb/"><img src="https://img.shields.io/badge/LeetCode-anishka__agarwalb-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
@@ -15,7 +14,7 @@
 ---
 
 ### 🚀 Currently
-- 🎙️ **Forward Deployed Engineer @ CallKaro AI** (Oct 2026 – present) — technical point of contact for voice-agent deployment. Cut manual call escalations by **60%** across MG Motors, Spinny and Yes Madam, and p95 agent latency from **2.5s → 1.5s**.
+- 🎙️ **Forward Deployed Engineer @ CallKaro AI**: technical point of contact for voice-agent deployment. Cut manual call escalations by **60%** across MG Motors, Spinny and Yes Madam, and p95 agent latency from **2.5s → 1.5s**.
 - 🎓 B.Tech CSE @ Maharishi Dayanand University (2027) · B.Sc. Applied AI & Data Science @ IIT Jodhpur (2027)
 - 📍 Gurgaon, India · open to Bengaluru, Hyd, Pune, Mumbai
 - 😄 Pronouns: she/her
