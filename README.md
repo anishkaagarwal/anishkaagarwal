@@ -12,10 +12,10 @@
 ---
 
 ### 🚀 Currently
-- 🎙️ **Forward Deployed Engineer @ CallKaro AI**: technical point of contact for voice-agent deployment. Cut manual call escalations by **60%** across MG Motors, Spinny and Yes Madam, and p95 agent latency from **2.5s → 1.5s**.
-- 🎓 B.Tech CSE @ Maharishi Dayanand University (2027) · B.Sc. Applied AI & Data Science @ IIT Jodhpur (2027)
-- 📍 Gurgaon, India · open to Bengaluru, Hyd, Pune, Mumbai
-- 😄 Pronouns: she/her
+**Forward Deployed Engineer @ CallKaro AI**: technical point of contact for voice-agent deployment. Cut manual call escalations by **60%** across MG Motors, Spinny and Yes Madam, and p95 agent latency from **2.5s → 1.5s**.
+
+B.Tech CSE @ Maharishi Dayanand University (2027) · B.Sc. Applied AI & Data Science @ IIT Jodhpur (2027) ; Gurgaon, India · open to Bengaluru, Hyd, Pune, Mumbai
+Pronouns: she/her
 
 ### 💼 Experience
 | Role | Where | When |
