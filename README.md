@@ -31,6 +31,11 @@ Pronouns: she/her
 | [**NeuroScribe.AI**](https://github.com/anishkaagarwal/neuroscribe) | Meeting assistant with WhisperX ASR, speaker diarization, prosody + sentiment signals, and Groq-powered summaries | WhisperX · Groq · Python |
 | [**SheenMind**](https://github.com/anishkaagarwal/SheenMind-)  | Mental health platform for students in J&K with a 2G lite mode and Dogri/Pahari support. 1st place, hackathon (team lead) | API design · Data modeling |
 
+### Contributions
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
+</p>
+
 ### Tech stack
 **Languages** &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
