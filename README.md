@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://anishkaagarwal.vercel.app">
   <img src="https://img.shields.io/badge/LinkedIn-Anishka_Agarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:anishkaagarwal998@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://leetcode.com/u/anishka_agarwalb/"><img src="https://img.shields.io/badge/LeetCode-anishka__agarwalb-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
