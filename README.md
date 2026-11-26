@@ -15,15 +15,15 @@
 ---
 
 ### 🚀 Currently
-- 🎙️ **Forward Deployed Engineer @ CallKaro AI** (Oct 2026 – present) — technical point of contact for MG Motors' voice-agent deployment. Cut manual call escalations by **60%** across MG Motors, Spinny and Yes Madam, and p95 agent latency from **2.5s → 1.5s**.
+- 🎙️ **Forward Deployed Engineer @ CallKaro AI** (Oct 2026 – present) — technical point of contact for voice-agent deployment. Cut manual call escalations by **60%** across MG Motors, Spinny and Yes Madam, and p95 agent latency from **2.5s → 1.5s**.
 - 🎓 B.Tech CSE @ Maharishi Dayanand University (2027) · B.Sc. Applied AI & Data Science @ IIT Jodhpur (2027)
-- 📍 Gurgaon, India · open to Bengaluru
+- 📍 Gurgaon, India · open to Bengaluru, Hyd, Pune, Mumbai
 - 😄 Pronouns: she/her
 
 ### 💼 Experience
 | Role | Where | When |
 |---|---|---|
-| Forward Deployed Engineer | CallKaro AI · Client: MG Motors | Oct 2026 – Present |
+| Forward Deployed Engineer | CallKaro AI · Client: MG Motors, YesMadam, Spinny, Omaxe | Oct 2026 – Present |
 | Software Development Engineer Intern | [@multyfi](https://github.com/multyfi), Gurgaon | Jun 2026 – Oct 2026 |
 | Technical Intern | Solid State Physics Laboratory, DRDO | Jun 2024 – Aug 2024 |
 
